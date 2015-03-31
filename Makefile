@@ -1,5 +1,5 @@
 #!make
-IMAGE_NAME=radioastro/docker
+IMAGE_NAME=radioastro/dropbox
 
 .PHONY: all build run force-build
 
