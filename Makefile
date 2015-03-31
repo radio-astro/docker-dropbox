@@ -1,5 +1,5 @@
 #!make
-IMAGE_NAME=skasa/docker
+IMAGE_NAME=radioastro/docker
 
 .PHONY: all build run force-build
 
